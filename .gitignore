@@ -1,0 +1,19 @@
+# Datasets
+merged/
+Pebble Shell Dataset*/
+Plastic trash*/
+rock*/
+Stone Detection*/
+
+# Large files
+*.zip
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
